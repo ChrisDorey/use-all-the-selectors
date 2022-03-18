@@ -27,7 +27,7 @@ main {
   color: #93a1a1;
 }
 
-p > .dfn{
+p > .dfn {
   background-color: #b58900;
 }
 
@@ -57,7 +57,6 @@ ol li:last-child {
 
 .types li:nth-child(even) {
   background-color: #586e75;
-
 }
 
 .types li:nth-child(3n) {
