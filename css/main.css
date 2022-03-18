@@ -12,7 +12,7 @@ header, footer {
 }
 
 nav ul {
-  text-transform: uppercase;
+  font-family: sans-serif;
 }
 
 h1 {
